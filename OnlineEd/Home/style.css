@@ -1,0 +1,153 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap');
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Times New Roman', Times, serif;
+}
+body{
+  
+ background-image: url(fi1.jpg);
+
+
+}
+b{
+  color: rgb(0, 0, 0);
+  background-color: white;
+}
+h2{
+  font-size: 36px;
+  font-weight: 300;
+ color: rgb(0, 0, 0);
+ margin: auto;
+ border: none;
+ text-align: center;
+}
+.wrapper{
+  width: 370px;
+  height: 500px;
+  padding: 2rem 0 1rem 0;
+  margin: 60px auto;
+  background: #fff;
+  margin-top: 9.5rem;
+  border-radius: 10px;
+  border: 4px solid rgb(126, 131, 0);
+  text-align: center;
+  box-shadow: 0 20px 35px rgb(196, 87, 87);
+}
+.wrapper1{
+  width: 350px;
+  height: 400px;
+  padding: 3rem 0 1rem 0;
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: 200;
+  margin: 60px auto;
+  background: #fff;
+  cursor: pointer;
+  
+  margin-top: 12rem;
+  border-radius: 10px;
+  border: 4px solid rgb(0, 0, 0);
+  text-align: center;
+  box-shadow: 0 20px 35px rgb(171, 255, 132);
+}
+
+h1{
+  font-size: 3rem;
+  color: #000000ee;
+  margin-bottom: 1.7rem;
+}
+marquee
+{
+  background: white;
+  margin-top: 10px;
+  
+}
+
+form input{
+  width: 95%;
+  outline: none;
+  border: 1px solid #fff;
+  background: #eeeeee;
+  padding: 12px 21px;
+  margin-bottom: 10px;
+  border-color: rgb(162, 162, 162);
+  border-radius:14px;
+}
+
+button{
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  padding: 12px 0;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  width: 85%;
+  background: rgb(143, 255, 143);
+  color: black;
+  cursor: pointer;
+}
+.ef{
+  font-size: 1.3rem;
+  margin-top: 2rem;
+  font-weight: 300;
+  padding: 12px 0;
+  border-radius: 5px;
+  outline: none;
+  border: none;
+  width: 85%;
+  background: rgb(255, 238, 0);
+  color: black;
+  cursor: pointer; 
+}
+#err{
+  font-size: 3rem;
+  color: rgb(3, 3, 3);
+}
+
+button:hover{
+  background: rgba(255, 153, 236, 0.767);
+}
+input:focus{
+  border: 1px solid rgb(226, 226, 226);
+}
+.terms
+{
+  margin-top: 0.2rem;
+}
+.Rev{
+ text-align: right;
+ font-size: 0.8rem;
+ margin: 0.4rem 1.5rem 0 0;
+}
+.Rev a{
+  text-decoration: none;
+  color:#000000;
+}
+
+
+.terms input{
+  height: 1em;
+  width: 1em;
+  vertical-align: middle;
+  cursor: pointer;
+}
+.terms label{
+  font-size: 0.9rem;
+  margin-bottom:2px;
+}
+.terms a{
+  color: rgb(220, 142, 26);
+  text-decoration: none;
+}
+.member{
+  color: #646464;
+  margin-top: 1.5rem;
+  font-size: 1rem;
+}
+.member{
+  color: rgb(17, 143, 17);
+  text-decoration: none;
+  font-size: 18px;
+}
+
